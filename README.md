@@ -1,4 +1,4 @@
-YARN_Rev1
+YARN_Rev2
 =========
 
-Developing YARN Applications - Rev1
+Developing YARN Applications - Rev2
